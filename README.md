@@ -1,2 +1,4 @@
 # DISEÑO DE INTERFACES DE USUARIO (spanish course)
-In these exercices about graphic design of small programs you can look for some design user interfaces' best-practice, already implemented.
+In these exercices you will see graphic design best-practice technics, already implemented.
+
+<p>In every zip file is included a pdf file that explain the goal of each one. (the documents are in spanish)</p>
